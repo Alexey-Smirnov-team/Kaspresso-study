@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.kaspersky.kaspresso.tutorial.test.tutorial-mergeDebugAndroidTestResources-28:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/res/values-v18/values.xml",
+                    "from": {
+                        "startLines": "4,12",
+                        "startColumns": "0,0",
+                        "startOffsets": "146,562",
+                        "endLines": "11,19",
+                        "endColumns": "8,8",
+                        "endOffsets": "561,975"
+                    },
+                    "to": {
+                        "startLines": "3,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "104,524",
+                        "endLines": "10,18",
+                        "endColumns": "8,8",
+                        "endOffsets": "519,937"
+                    }
+                },
+                {
+                    "source": "/Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/830565d781e56d8717ad1bf72b7faedd/transformed/appcompat-1.5.1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

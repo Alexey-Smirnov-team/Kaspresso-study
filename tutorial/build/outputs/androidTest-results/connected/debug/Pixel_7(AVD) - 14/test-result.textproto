@@ -1,0 +1,77 @@
+# proto-message: google.testing.platform.proto.api.core.TestSuiteResult
+# 2025-06-10T07:50:52.596527Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+  device {
+    id: "emulator-5554"
+    friendly_name: "primary"
+  }
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "AfterLoginActivityTest"
+    test_package: "com.kaspersky.kaspresso.tutorial"
+    test_method: "test"
+    start_time {
+      seconds: 1749541851
+      nanos: 302000000
+    }
+    end_time {
+      seconds: 1749541851
+      nanos: 909000000
+    }
+    device {
+      id: "emulator-5554"
+      friendly_name: "primary"
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/outputs/androidTest-results/connected/debug/Pixel_7(AVD) - 14/logcat-com.kaspersky.kaspresso.tutorial.AfterLoginActivityTest-test.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/outputs/androidTest-results/connected/debug/Pixel_7(AVD) - 14/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/outputs/androidTest-results/connected/debug/Pixel_7(AVD) - 14/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/outputs/androidTest-results/connected/debug/Pixel_7(AVD) - 14/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/outputs/androidTest-results/connected/debug/Pixel_7(AVD) - 14/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

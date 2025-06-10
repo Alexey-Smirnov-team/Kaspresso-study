@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.kaspersky.kaspresso.tutorial.test.tutorial-mergeDebugAndroidTestResources-28:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/830565d781e56d8717ad1bf72b7faedd/transformed/appcompat-1.5.1/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

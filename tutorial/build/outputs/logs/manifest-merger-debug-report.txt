@@ -1,0 +1,358 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:2:1-76:12
+MERGED from [androidx.databinding:viewbinding:8.10.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/06960f4a90721b5a1efb15e7a543537e/transformed/viewbinding-8.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/4fd3684d3d033209047a67f6e66a78ba/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/638aba26cc7e50a725527fe33722e56b/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.7.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/bbb73051761cb7ead242a0da3efeec65/transformed/material-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/51b298a8190d5473a84cd3b3a3ae7762/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/985cccad64948fd75ef4e4e8ec07a389/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/830565d781e56d8717ad1bf72b7faedd/transformed/appcompat-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/f7b83b236c866eeca66c492807b41d8d/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/287b16805d59ef3c3ceea73914495a88/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/1748de121158ef3d507996ed160fc9bc/transformed/activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/d202bfb2fbb5146deb3924202fba0e8a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/1b91937ab8ae722a13936ffa0283de01/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/b3c64e0b8f143d8bcc53f5bc079c5d92/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/5d971bb6c64a6fe32d9f9cbb2e8867be/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/913aa36665a48728b4641c33535c2de8/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/fcbe0cd7528c2225498549675b5ba686/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/df51ef761cb1b809d3ff03548ec0c77d/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/d8475fe5302c9f19aecebf0f2c34c4bd/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/78df0d7cb32abe6bbb0ebfe93383c868/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/06f389526138538144d5641053db8422/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/30861f0d7bc83432b314c16ce6ab2b35/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/abba7cc9a247cd5e9884faf167a430fb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/8939c4a52161c762a225fb43a2c0c861/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/79815503fd5622aeca405a12fbdaa763/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/2d2ef1919cd788b9ca5c3061188431f5/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a5f11dc505ae434a70c23077881e80af/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/bc6270f8330f550c8f5e84dce83d9009/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/6a64365a794a37d29a32b0cc4f52da6e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a8fc7810a61107bab3a4a59753349cdb/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a6c3fab6d8b628c63865a41959a51bb3/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/c0a416ff163284ea755b292d2fe6b5c1/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/c394ad096563e27e8fadd9bcefafd52f/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/ade9c349733ae2dbdea60489698eda2f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/121604dc3d75bf1f0043c89f4edff8ce/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/d37a26e7ac584e06bd6377bdd156020a/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/491be3f3a5a0e342f6bef308ff8906dc/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/96c51888afc6138a5acd15ed58feaa51/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/0be5e87bc3de5e64349d545684c6199b/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/fa2388527f25b9838a6cd1388810fbfe/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/1a39b6c774b54d2076cbff77db3a5989/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/ceab3958eff488bc85f12aefb39c33e6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/8bfb94066066e6f3bf1234c3910b3df2/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/1b6b69782f89272d94a6971e75694140/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.telephony
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:5:5-7:36
+	android:required
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:7:9-33
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:6:9-50
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:9:5-10:40
+	tools:ignore
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:10:9-37
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:15:5-78
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:18:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:19:5-69
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:19:22-66
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:21:5-114
+	tools:ignore
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:21:77-112
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:21:22-76
+application
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:24:5-74:19
+INJECTED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:24:5-74:19
+MERGED from [com.google.android.material:material:1.7.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/bbb73051761cb7ead242a0da3efeec65/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/bbb73051761cb7ead242a0da3efeec65/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/985cccad64948fd75ef4e4e8ec07a389/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/985cccad64948fd75ef4e4e8ec07a389/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/df51ef761cb1b809d3ff03548ec0c77d/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/df51ef761cb1b809d3ff03548ec0c77d/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a5f11dc505ae434a70c23077881e80af/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a5f11dc505ae434a70c23077881e80af/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a8fc7810a61107bab3a4a59753349cdb/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a8fc7810a61107bab3a4a59753349cdb/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/ade9c349733ae2dbdea60489698eda2f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/ade9c349733ae2dbdea60489698eda2f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/121604dc3d75bf1f0043c89f4edff8ce/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/121604dc3d75bf1f0043c89f4edff8ce/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml
+	android:requestLegacyExternalStorage
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:25:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a5f11dc505ae434a70c23077881e80af/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:30:9-35
+	android:label
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:28:9-41
+	tools:ignore
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:32:9-48
+	android:roundIcon
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:29:9-54
+	android:icon
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:26:9-36
+	android:theme
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:31:9-47
+activity#com.kaspersky.kaspresso.tutorial.MainActivity
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:34:9-40:20
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:34:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:38:27-74
+activity#com.kaspersky.kaspresso.tutorial.simple.SimpleActivity
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:42:9-43:38
+	android:exported
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:42:19-56
+activity#com.kaspersky.kaspresso.tutorial.wifi.WiFiActivity
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:45:9-46:38
+	android:exported
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:45:19-52
+activity#com.kaspersky.kaspresso.tutorial.notification.NotificationActivity
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:48:9-49:39
+	android:exported
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:48:19-68
+activity#com.kaspersky.kaspresso.tutorial.login.LoginActivity
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:51:9-54:58
+	android:windowSoftInputMode
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:54:13-55
+	android:exported
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:52:13-48
+activity#com.kaspersky.kaspresso.tutorial.afterlogin.AfterLoginActivity
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:56:9-58:39
+	android:exported
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:57:13-58
+activity#com.kaspersky.kaspresso.tutorial.permission.MakeCallActivity
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:60:9-61:39
+	android:exported
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:61:13-36
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:60:19-62
+activity#com.kaspersky.kaspresso.tutorial.flaky.FlakyActivity
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:63:9-65:39
+	android:exported
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:65:13-36
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:64:13-48
+activity#com.kaspersky.kaspresso.tutorial.lists.NoteListActivity
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:67:9-69:39
+	android:exported
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:69:13-36
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:68:13-51
+activity#com.kaspersky.kaspresso.tutorial.user.LoadUserActivity
+ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:71:9-73:39
+	android:exported
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:73:13-36
+	android:name
+		ADDED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml:72:13-50
+uses-sdk
+INJECTED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml
+INJECTED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.10.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/06960f4a90721b5a1efb15e7a543537e/transformed/viewbinding-8.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.10.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/06960f4a90721b5a1efb15e7a543537e/transformed/viewbinding-8.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/4fd3684d3d033209047a67f6e66a78ba/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/4fd3684d3d033209047a67f6e66a78ba/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/638aba26cc7e50a725527fe33722e56b/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/638aba26cc7e50a725527fe33722e56b/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/bbb73051761cb7ead242a0da3efeec65/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/bbb73051761cb7ead242a0da3efeec65/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/51b298a8190d5473a84cd3b3a3ae7762/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/51b298a8190d5473a84cd3b3a3ae7762/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/985cccad64948fd75ef4e4e8ec07a389/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/985cccad64948fd75ef4e4e8ec07a389/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/830565d781e56d8717ad1bf72b7faedd/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/830565d781e56d8717ad1bf72b7faedd/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/f7b83b236c866eeca66c492807b41d8d/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/f7b83b236c866eeca66c492807b41d8d/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/287b16805d59ef3c3ceea73914495a88/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/287b16805d59ef3c3ceea73914495a88/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/1748de121158ef3d507996ed160fc9bc/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/1748de121158ef3d507996ed160fc9bc/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/d202bfb2fbb5146deb3924202fba0e8a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/d202bfb2fbb5146deb3924202fba0e8a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/1b91937ab8ae722a13936ffa0283de01/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/1b91937ab8ae722a13936ffa0283de01/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/b3c64e0b8f143d8bcc53f5bc079c5d92/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/b3c64e0b8f143d8bcc53f5bc079c5d92/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/5d971bb6c64a6fe32d9f9cbb2e8867be/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/5d971bb6c64a6fe32d9f9cbb2e8867be/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/913aa36665a48728b4641c33535c2de8/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/913aa36665a48728b4641c33535c2de8/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/fcbe0cd7528c2225498549675b5ba686/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/fcbe0cd7528c2225498549675b5ba686/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/df51ef761cb1b809d3ff03548ec0c77d/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/df51ef761cb1b809d3ff03548ec0c77d/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/d8475fe5302c9f19aecebf0f2c34c4bd/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/d8475fe5302c9f19aecebf0f2c34c4bd/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/78df0d7cb32abe6bbb0ebfe93383c868/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/78df0d7cb32abe6bbb0ebfe93383c868/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/06f389526138538144d5641053db8422/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/06f389526138538144d5641053db8422/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/30861f0d7bc83432b314c16ce6ab2b35/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/30861f0d7bc83432b314c16ce6ab2b35/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/abba7cc9a247cd5e9884faf167a430fb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/abba7cc9a247cd5e9884faf167a430fb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/8939c4a52161c762a225fb43a2c0c861/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/8939c4a52161c762a225fb43a2c0c861/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/79815503fd5622aeca405a12fbdaa763/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/79815503fd5622aeca405a12fbdaa763/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/2d2ef1919cd788b9ca5c3061188431f5/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/2d2ef1919cd788b9ca5c3061188431f5/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a5f11dc505ae434a70c23077881e80af/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a5f11dc505ae434a70c23077881e80af/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/bc6270f8330f550c8f5e84dce83d9009/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/bc6270f8330f550c8f5e84dce83d9009/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/6a64365a794a37d29a32b0cc4f52da6e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/6a64365a794a37d29a32b0cc4f52da6e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a8fc7810a61107bab3a4a59753349cdb/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a8fc7810a61107bab3a4a59753349cdb/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a6c3fab6d8b628c63865a41959a51bb3/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a6c3fab6d8b628c63865a41959a51bb3/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/c0a416ff163284ea755b292d2fe6b5c1/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/c0a416ff163284ea755b292d2fe6b5c1/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/c394ad096563e27e8fadd9bcefafd52f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/c394ad096563e27e8fadd9bcefafd52f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/ade9c349733ae2dbdea60489698eda2f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/ade9c349733ae2dbdea60489698eda2f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/121604dc3d75bf1f0043c89f4edff8ce/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/121604dc3d75bf1f0043c89f4edff8ce/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/d37a26e7ac584e06bd6377bdd156020a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/d37a26e7ac584e06bd6377bdd156020a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/491be3f3a5a0e342f6bef308ff8906dc/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/491be3f3a5a0e342f6bef308ff8906dc/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/96c51888afc6138a5acd15ed58feaa51/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/96c51888afc6138a5acd15ed58feaa51/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/0be5e87bc3de5e64349d545684c6199b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/0be5e87bc3de5e64349d545684c6199b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/fa2388527f25b9838a6cd1388810fbfe/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/fa2388527f25b9838a6cd1388810fbfe/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/1a39b6c774b54d2076cbff77db3a5989/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/1a39b6c774b54d2076cbff77db3a5989/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/ceab3958eff488bc85f12aefb39c33e6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/ceab3958eff488bc85f12aefb39c33e6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/8bfb94066066e6f3bf1234c3910b3df2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/8bfb94066066e6f3bf1234c3910b3df2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/1b6b69782f89272d94a6971e75694140/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/1b6b69782f89272d94a6971e75694140/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aleksei_smirnov/Documents/Kaspresso-master/tutorial/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/df51ef761cb1b809d3ff03548ec0c77d/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a8fc7810a61107bab3a4a59753349cdb/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a8fc7810a61107bab3a4a59753349cdb/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/121604dc3d75bf1f0043c89f4edff8ce/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/121604dc3d75bf1f0043c89f4edff8ce/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/df51ef761cb1b809d3ff03548ec0c77d/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/df51ef761cb1b809d3ff03548ec0c77d/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/df51ef761cb1b809d3ff03548ec0c77d/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/df51ef761cb1b809d3ff03548ec0c77d/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/df51ef761cb1b809d3ff03548ec0c77d/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/df51ef761cb1b809d3ff03548ec0c77d/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/df51ef761cb1b809d3ff03548ec0c77d/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a5f11dc505ae434a70c23077881e80af/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a5f11dc505ae434a70c23077881e80af/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a5f11dc505ae434a70c23077881e80af/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.kaspersky.kaspresso.tutorial.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a5f11dc505ae434a70c23077881e80af/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a5f11dc505ae434a70c23077881e80af/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a5f11dc505ae434a70c23077881e80af/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a5f11dc505ae434a70c23077881e80af/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a5f11dc505ae434a70c23077881e80af/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.kaspersky.kaspresso.tutorial.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a5f11dc505ae434a70c23077881e80af/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a5f11dc505ae434a70c23077881e80af/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a8fc7810a61107bab3a4a59753349cdb/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a8fc7810a61107bab3a4a59753349cdb/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/a8fc7810a61107bab3a4a59753349cdb/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78

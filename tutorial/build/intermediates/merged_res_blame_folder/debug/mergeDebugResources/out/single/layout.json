@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.kaspersky.kaspresso.tutorial-mergeDebugResources-28:/layout/activity_load_user.xml",
+        "source": "com.kaspersky.kaspresso.tutorial-main-31:/layout/activity_load_user.xml"
+    },
+    {
+        "merged": "com.kaspersky.kaspresso.tutorial-mergeDebugResources-28:/layout/activity_wifi.xml",
+        "source": "com.kaspersky.kaspresso.tutorial-main-31:/layout/activity_wifi.xml"
+    },
+    {
+        "merged": "com.kaspersky.kaspresso.tutorial-mergeDebugResources-28:/layout/note_item.xml",
+        "source": "com.kaspersky.kaspresso.tutorial-main-31:/layout/note_item.xml"
+    },
+    {
+        "merged": "com.kaspersky.kaspresso.tutorial-mergeDebugResources-28:/layout/activity_after_login.xml",
+        "source": "com.kaspersky.kaspresso.tutorial-main-31:/layout/activity_after_login.xml"
+    },
+    {
+        "merged": "com.kaspersky.kaspresso.tutorial-mergeDebugResources-28:/layout/fragment_load_user.xml",
+        "source": "com.kaspersky.kaspresso.tutorial-main-31:/layout/fragment_load_user.xml"
+    },
+    {
+        "merged": "com.kaspersky.kaspresso.tutorial-mergeDebugResources-28:/layout/activity_note_list.xml",
+        "source": "com.kaspersky.kaspresso.tutorial-main-31:/layout/activity_note_list.xml"
+    },
+    {
+        "merged": "com.kaspersky.kaspresso.tutorial-mergeDebugResources-28:/layout/activity_login.xml",
+        "source": "com.kaspersky.kaspresso.tutorial-main-31:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.kaspersky.kaspresso.tutorial-mergeDebugResources-28:/layout/activity_notification.xml",
+        "source": "com.kaspersky.kaspresso.tutorial-main-31:/layout/activity_notification.xml"
+    },
+    {
+        "merged": "com.kaspersky.kaspresso.tutorial-mergeDebugResources-28:/layout/activity_flaky.xml",
+        "source": "com.kaspersky.kaspresso.tutorial-main-31:/layout/activity_flaky.xml"
+    },
+    {
+        "merged": "com.kaspersky.kaspresso.tutorial-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.kaspersky.kaspresso.tutorial-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.kaspersky.kaspresso.tutorial-mergeDebugResources-28:/layout/activity_simple.xml",
+        "source": "com.kaspersky.kaspresso.tutorial-main-31:/layout/activity_simple.xml"
+    },
+    {
+        "merged": "com.kaspersky.kaspresso.tutorial-mergeDebugResources-28:/layout/activity_make_call.xml",
+        "source": "com.kaspersky.kaspresso.tutorial-main-31:/layout/activity_make_call.xml"
+    }
+]

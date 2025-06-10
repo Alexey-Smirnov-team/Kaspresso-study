@@ -1,0 +1,109 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.kaspersky.kaspresso.tutorial.test" >
+4
+5    <uses-sdk
+5-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:5:15-41
+7        android:targetSdkVersion="30" />
+7-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:11:5-15:82
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:11:22-76
+11        android:functionalTest="false"
+11-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:13:22-53
+13        android:label="Tests for com.kaspersky.kaspresso.tutorial"
+13-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:15:22-80
+14        android:targetPackage="com.kaspersky.kaspresso.tutorial" />
+14-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:12:22-78
+15
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.kaspersky.android-components:kaspresso:1.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/6c62740f6b7855e3b186fc700c0ff353/transformed/kaspresso-1.5.1/AndroidManifest.xml:9:5-79
+16-->[com.kaspersky.android-components:kaspresso:1.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/6c62740f6b7855e3b186fc700c0ff353/transformed/kaspresso-1.5.1/AndroidManifest.xml:9:22-76
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+17-->[com.kaspersky.android-components:kaspresso:1.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/6c62740f6b7855e3b186fc700c0ff353/transformed/kaspresso-1.5.1/AndroidManifest.xml:10:5-76
+17-->[com.kaspersky.android-components:kaspresso:1.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/6c62740f6b7855e3b186fc700c0ff353/transformed/kaspresso-1.5.1/AndroidManifest.xml:10:22-73
+18    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+18-->[com.kaspersky.android-components:kaspresso:1.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/6c62740f6b7855e3b186fc700c0ff353/transformed/kaspresso-1.5.1/AndroidManifest.xml:11:5-76
+18-->[com.kaspersky.android-components:kaspresso:1.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/6c62740f6b7855e3b186fc700c0ff353/transformed/kaspresso-1.5.1/AndroidManifest.xml:11:22-73
+19    <uses-permission android:name="android.permission.REORDER_TASKS" />
+19-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:24:5-72
+19-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:24:22-69
+20
+21    <queries>
+21-->[androidx.test:runner:1.5.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/0f476bdf828ca69128f8ab292652a415/transformed/runner-1.5.0/AndroidManifest.xml:24:5-28:15
+22        <package android:name="androidx.test.orchestrator" />
+22-->[androidx.test:runner:1.5.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/0f476bdf828ca69128f8ab292652a415/transformed/runner-1.5.0/AndroidManifest.xml:25:9-62
+22-->[androidx.test:runner:1.5.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/0f476bdf828ca69128f8ab292652a415/transformed/runner-1.5.0/AndroidManifest.xml:25:18-59
+23        <package android:name="androidx.test.services" />
+23-->[androidx.test:runner:1.5.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/0f476bdf828ca69128f8ab292652a415/transformed/runner-1.5.0/AndroidManifest.xml:26:9-58
+23-->[androidx.test:runner:1.5.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/0f476bdf828ca69128f8ab292652a415/transformed/runner-1.5.0/AndroidManifest.xml:26:18-55
+24        <package android:name="com.google.android.apps.common.testing.services" />
+24-->[androidx.test:runner:1.5.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/0f476bdf828ca69128f8ab292652a415/transformed/runner-1.5.0/AndroidManifest.xml:27:9-83
+24-->[androidx.test:runner:1.5.0] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/0f476bdf828ca69128f8ab292652a415/transformed/runner-1.5.0/AndroidManifest.xml:27:18-80
+25    </queries>
+26
+27    <application
+27-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:7:5-9:19
+28        android:debuggable="true"
+29        android:extractNativeLibs="true" >
+30        <uses-library android:name="android.test.runner" />
+30-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:8:9-60
+30-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:8:23-57
+31
+32        <activity
+32-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:27:9-34:20
+33            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+33-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:28:13-99
+34            android:exported="true"
+34-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:29:13-36
+35            android:theme="@style/WhiteBackgroundTheme" >
+35-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:30:13-56
+36            <intent-filter android:priority="-100" >
+36-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:31:13-33:29
+36-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:31:28-51
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:32:17-77
+37-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:32:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:35:9-42:20
+41            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+41-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:36:13-95
+42            android:exported="true"
+42-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:37:13-36
+43            android:theme="@style/WhiteBackgroundTheme" >
+43-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:38:13-56
+44            <intent-filter android:priority="-100" >
+44-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:31:13-33:29
+44-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:31:28-51
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:32:17-77
+45-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:32:27-74
+46            </intent-filter>
+47        </activity>
+48        <activity
+48-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:43:9-50:20
+49            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+49-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:44:13-103
+50            android:exported="true"
+50-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:45:13-36
+51            android:theme="@style/WhiteBackgroundDialogTheme" >
+51-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:46:13-62
+52            <intent-filter android:priority="-100" >
+52-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:31:13-33:29
+52-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:31:28-51
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:32:17-77
+53-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:32:27-74
+54            </intent-filter>
+55        </activity>
+56    </application>
+57
+58</manifest>
