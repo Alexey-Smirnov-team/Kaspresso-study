@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/build-logic" name="build-logic">
+                <projects>
+                  <project path="$PROJECT_DIR$/build-logic" />
+                  <project path="$PROJECT_DIR$/build-logic/android" />
+                  <project path="$PROJECT_DIR$/build-logic/checks" />
+                  <project path="$PROJECT_DIR$/build-logic/kotlin" />
+                  <project path="$PROJECT_DIR$/build-logic/publication" />
+                  <project path="$PROJECT_DIR$/build-logic/third-party-report" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/adb-server" />
+            <option value="$PROJECT_DIR$/adb-server/adb-server-command-types" />
+            <option value="$PROJECT_DIR$/adb-server/adb-server-common" />
+            <option value="$PROJECT_DIR$/adb-server/adb-server-connection" />
+            <option value="$PROJECT_DIR$/adb-server/adb-server-desktop-device-connection" />
+            <option value="$PROJECT_DIR$/adb-server/adb-server-device" />
+            <option value="$PROJECT_DIR$/adb-server/adbserver-desktop" />
+            <option value="$PROJECT_DIR$/allure-support" />
+            <option value="$PROJECT_DIR$/build-logic" />
+            <option value="$PROJECT_DIR$/build-logic/android" />
+            <option value="$PROJECT_DIR$/build-logic/checks" />
+            <option value="$PROJECT_DIR$/build-logic/kotlin" />
+            <option value="$PROJECT_DIR$/build-logic/publication" />
+            <option value="$PROJECT_DIR$/build-logic/third-party-report" />
+            <option value="$PROJECT_DIR$/compose-support" />
+            <option value="$PROJECT_DIR$/kaspresso" />
+            <option value="$PROJECT_DIR$/kautomator" />
+            <option value="$PROJECT_DIR$/page-object-code-gen" />
+            <option value="$PROJECT_DIR$/samples" />
+            <option value="$PROJECT_DIR$/samples/adbserver-sample" />
+            <option value="$PROJECT_DIR$/samples/kaspresso-allure-support-sample" />
+            <option value="$PROJECT_DIR$/samples/kaspresso-compose-support-sample" />
+            <option value="$PROJECT_DIR$/samples/kaspresso-sample" />
+            <option value="$PROJECT_DIR$/samples/kautomator-sample" />
+            <option value="$PROJECT_DIR$/samples/kautomator-sample-app-upgrade" />
+            <option value="$PROJECT_DIR$/tutorial" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

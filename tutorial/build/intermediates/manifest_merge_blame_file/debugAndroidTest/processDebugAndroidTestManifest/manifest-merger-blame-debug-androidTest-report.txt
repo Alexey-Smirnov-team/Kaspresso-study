@@ -3,24 +3,24 @@
 3    package="com.kaspersky.kaspresso.tutorial.test" >
 4
 5    <uses-sdk
-5-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:5:5-74
+5-->/Users/aleksei_smirnov/Kaspresso-study/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11186535039902314091.xml:5:5-74
 6        android:minSdkVersion="21"
-6-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:5:15-41
+6-->/Users/aleksei_smirnov/Kaspresso-study/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11186535039902314091.xml:5:15-41
 7        android:targetSdkVersion="30" />
-7-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:5:42-71
+7-->/Users/aleksei_smirnov/Kaspresso-study/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11186535039902314091.xml:5:42-71
 8
 9    <instrumentation
-9-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:11:5-15:82
+9-->/Users/aleksei_smirnov/Kaspresso-study/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11186535039902314091.xml:11:5-15:82
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:11:22-76
+10-->/Users/aleksei_smirnov/Kaspresso-study/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11186535039902314091.xml:11:22-76
 11        android:functionalTest="false"
-11-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:14:22-52
+11-->/Users/aleksei_smirnov/Kaspresso-study/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11186535039902314091.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:13:22-53
+12-->/Users/aleksei_smirnov/Kaspresso-study/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11186535039902314091.xml:13:22-53
 13        android:label="Tests for com.kaspersky.kaspresso.tutorial"
-13-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:15:22-80
+13-->/Users/aleksei_smirnov/Kaspresso-study/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11186535039902314091.xml:15:22-80
 14        android:targetPackage="com.kaspersky.kaspresso.tutorial" />
-14-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:12:22-78
+14-->/Users/aleksei_smirnov/Kaspresso-study/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11186535039902314091.xml:12:22-78
 15
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 16-->[com.kaspersky.android-components:kaspresso:1.5.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/6c62740f6b7855e3b186fc700c0ff353/transformed/kaspresso-1.5.1/AndroidManifest.xml:9:5-79
@@ -49,12 +49,12 @@
 25    </queries>
 26
 27    <application
-27-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:7:5-9:19
+27-->/Users/aleksei_smirnov/Kaspresso-study/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11186535039902314091.xml:7:5-9:19
 28        android:debuggable="true"
 29        android:extractNativeLibs="true" >
 30        <uses-library android:name="android.test.runner" />
-30-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:8:9-60
-30-->/Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16985091591762812234.xml:8:23-57
+30-->/Users/aleksei_smirnov/Kaspresso-study/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11186535039902314091.xml:8:9-60
+30-->/Users/aleksei_smirnov/Kaspresso-study/tutorial/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11186535039902314091.xml:8:23-57
 31
 32        <activity
 32-->[androidx.test:core:1.6.1] /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/88b18b6f6e89aad0971626b7a0f8a0f8/transformed/core-1.6.1/AndroidManifest.xml:27:9-34:20

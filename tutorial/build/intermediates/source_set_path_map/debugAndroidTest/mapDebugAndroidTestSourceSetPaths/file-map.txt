@@ -26,6 +26,6 @@ com.kaspersky.kaspresso.tutorial.test.tutorial-drawerlayout-1.1.1-24 /Users/alek
 com.kaspersky.kaspresso.tutorial.test.tutorial-emoji2-1.2.0-25 /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/df51ef761cb1b809d3ff03548ec0c77d/transformed/emoji2-1.2.0/res
 com.kaspersky.kaspresso.tutorial.test.tutorial-viewpager2-1.0.0-26 /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/f7b83b236c866eeca66c492807b41d8d/transformed/viewpager2-1.0.0/res
 com.kaspersky.kaspresso.tutorial.test.tutorial-emoji2-views-helper-1.2.0-27 /Users/aleksei_smirnov/.gradle/caches/8.11.1/transforms/fcbe0cd7528c2225498549675b5ba686/transformed/emoji2-views-helper-1.2.0/res
-com.kaspersky.kaspresso.tutorial.test.tutorial-mergeDebugAndroidTestResources-28 /Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.kaspersky.kaspresso.tutorial.test.tutorial-mergeDebugAndroidTestResources-29 /Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.kaspersky.kaspresso.tutorial.test.tutorial-debugAndroidTest-30 /Users/aleksei_smirnov/StudioProjects/Kaspresso/tutorial/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+com.kaspersky.kaspresso.tutorial.test.tutorial-mergeDebugAndroidTestResources-28 /Users/aleksei_smirnov/Kaspresso-study/tutorial/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.kaspersky.kaspresso.tutorial.test.tutorial-mergeDebugAndroidTestResources-29 /Users/aleksei_smirnov/Kaspresso-study/tutorial/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.kaspersky.kaspresso.tutorial.test.tutorial-debugAndroidTest-30 /Users/aleksei_smirnov/Kaspresso-study/tutorial/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
