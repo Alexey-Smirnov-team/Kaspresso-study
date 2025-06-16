@@ -1,7 +1,7 @@
 EXECUTING: /Users/aleksei_smirnov/Library/Android/sdk/build-tools/35.0.0/aapt dump badging /Users/aleksei_smirnov/.gradle/caches/modules-2/files-2.1/androidx.test/orchestrator/1.4.2/e39fb0a062aa533b8c2805bbf9648829a9cd977e/orchestrator-1.4.2.apk
 CURRENT_WORKING_DIRECTORY: /Users/aleksei_smirnov/Kaspresso-study
-START_TIME: 2025-06-16 22:24:54.958
-START_TIME-NANOS: 2025-06-16 22:24:54.958477000
+START_TIME: 2025-06-16 23:45:17.916
+START_TIME-NANOS: 2025-06-16 23:45:17.916707000
 ENVIRONMENT:
 
 *****************************************
@@ -27,7 +27,7 @@ supports-any-density: 'true'
 locales:
 densities:
 ===================
-END_TIME: 2025-06-16 22:24:54.968
-END_TIME-NANOS: 2025-06-16 22:24:54.968587000
-DURATION: 10ms
+END_TIME: 2025-06-16 23:45:17.925
+END_TIME-NANOS: 2025-06-16 23:45:17.925850000
+DURATION: 9ms
 EXIT CODE: 0

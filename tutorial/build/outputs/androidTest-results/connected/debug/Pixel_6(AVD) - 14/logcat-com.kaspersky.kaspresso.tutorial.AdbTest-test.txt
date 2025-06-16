@@ -1,0 +1,70 @@
+06-16 23:45:15.820  2800  2824 I TestRunner: started: test(com.kaspersky.kaspresso.tutorial.AdbTest)
+06-16 23:45:15.834  2800  2824 W FileTestStorage: Output properties is not supported.
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: enableTracing failed. You may need to upgrade your androidx.tracing:tracing version
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: java.lang.NoSuchMethodError: No static method forceEnableAppTracing()V in class Landroidx/tracing/Trace; or its super classes (declaration of 'androidx.tracing.Trace' appears in /data/app/~~2bBYQ2OZjxZ9Vtkiyb7hKA==/com.kaspersky.kaspresso.tutorial-7CFwQG0xKOOnrrH6AkULxw==/base.apk)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at androidx.test.platform.tracing.AndroidXTracer.enableTracing(AndroidXTracer.java:57)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at androidx.test.platform.tracing.Tracing.<init>(Tracing.java:53)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at androidx.test.platform.tracing.Tracing.<clinit>(Tracing.java:49)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at androidx.test.espresso.base.BaseLayerModule.providesTracing(BaseLayerModule.java:1)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.providesTracing(BaseLayerModule_ProvidesTracingFactory.java:1)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.get(BaseLayerModule_ProvidesTracingFactory.java:1)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.get(BaseLayerModule_ProvidesTracingFactory.java:2)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at androidx.test.espresso.core.internal.deps.dagger.internal.DoubleCheck.get(DoubleCheck.java:6)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at androidx.test.espresso.base.IdlingResourceRegistry_Factory.get(IdlingResourceRegistry_Factory.java:1)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at androidx.test.espresso.base.IdlingResourceRegistry_Factory.get(IdlingResourceRegistry_Factory.java:2)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at androidx.test.espresso.core.internal.deps.dagger.internal.DoubleCheck.get(DoubleCheck.java:6)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at androidx.test.espresso.DaggerBaseLayerComponent$BaseLayerComponentImpl.idlingResourceRegistry(DaggerBaseLayerComponent.java:1)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at androidx.test.espresso.Espresso.<clinit>(Espresso.java:3)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at com.kaspersky.kaspresso.kaspresso.Kaspresso$Builder.build$kaspresso_release(Kaspresso.kt:985)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at com.kaspersky.kaspresso.testcases.api.testcase.BaseTestCase.<init>(BaseTestCase.kt:34)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at com.kaspersky.kaspresso.testcases.api.testcase.BaseTestCase.<init>(BaseTestCase.kt:28)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at com.kaspersky.kaspresso.testcases.api.testcase.TestCase.<init>(TestCase.kt:14)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at com.kaspersky.kaspresso.testcases.api.testcase.TestCase.<init>(TestCase.kt:12)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at com.kaspersky.kaspresso.tutorial.AdbTest.<init>(AdbTest.kt:8)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at java.lang.reflect.Constructor.newInstance0(Native Method)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:343)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:250)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:260)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.BlockJUnit4ClassRunner$2.runReflectiveCall(BlockJUnit4ClassRunner.java:309)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:306)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+06-16 23:45:15.835  2800  2824 E AndroidXTracer: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+06-16 23:45:15.836  2800  2824 E AndroidXTracer: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+06-16 23:45:15.836  2800  2824 E AndroidXTracer: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+06-16 23:45:15.836  2800  2824 E AndroidXTracer: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+06-16 23:45:15.836  2800  2824 E AndroidXTracer: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+06-16 23:45:15.836  2800  2824 E AndroidXTracer: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:67)
+06-16 23:45:15.836  2800  2824 E AndroidXTracer: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:58)
+06-16 23:45:15.836  2800  2824 E AndroidXTracer: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:446)
+06-16 23:45:15.836  2800  2824 E AndroidXTracer: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2402)
+06-16 23:45:15.836  2800  2824 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
+06-16 23:45:15.838  2800  2824 I KASPRESSO: AdbServer. The command to execute=devices
+06-16 23:45:15.839  2800  2826 D TrafficStats: tagSocket(80) with statsTag=0xffffffff, statsUid=-1
+06-16 23:45:15.858   952  1047 D EGL_emulation: app_time_stats: avg=15724.48ms min=15724.48ms max=15724.48ms count=1
+06-16 23:45:16.473  2800  2826 D TrafficStats: tagSocket(81) with statsTag=0xffffffff, statsUid=-1
+06-16 23:45:16.711  2800  2824 I KASPRESSO: AdbServer. The command=devices was performed with result=CommandResult(status=SUCCESS, description=exitCode=0, message=List of devices attached
+06-16 23:45:16.711  2800  2824 I KASPRESSO: emulator-5554	unauthorized
+06-16 23:45:16.711  2800  2824 I KASPRESSO: emulator-5556	device
+06-16 23:45:16.711  2800  2824 I KASPRESSO:
+06-16 23:45:16.711  2800  2824 I KASPRESSO: , serviceInfo=The command was executed on desktop=Desktop-7651)
+06-16 23:45:16.712  2800  2824 I KASPRESSO: AdbServer. The command to execute=undefined_command
+06-16 23:45:16.749  2800  2824 I KASPRESSO: AdbServer. The command=undefined_command was performed with result=CommandResult(status=FAILURE, description=exitCode=1, message=adb: unknown command undefined_command
+06-16 23:45:16.749  2800  2824 I KASPRESSO: , serviceInfo=The command was executed on desktop=Desktop-7651)
+06-16 23:45:16.749  2800  2824 I TestRunner: finished: test(com.kaspersky.kaspresso.tutorial.AdbTest)

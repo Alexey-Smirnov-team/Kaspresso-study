@@ -12,7 +12,7 @@ INFO: Configuring Android Instrumentation driver: android_instrumentation_runtim
     }
     args_map {
       key: "class"
-      value: "com.kaspersky.kaspresso.tutorial.LoginActivityGeneratedDataTest"
+      value: "com.kaspersky.kaspresso.tutorial.AdbTest"
     }
     args_map {
       key: "clearPackageData"
@@ -59,4 +59,4 @@ INFO: Uninstalling com.kaspersky.kaspresso.tutorial for device emulator-5556.
 INFO: Uninstalling androidx.test.orchestrator for device emulator-5556.
 INFO: Uninstalling androidx.test.services for device emulator-5556.
 INFO: Uninstalling com.kaspersky.kaspresso.tutorial.test for device emulator-5556.
-INFO: Execute com.kaspersky.kaspresso.tutorial.LoginActivityGeneratedDataTest.loginSuccessfulIfUsernameAndPasswordCorrect: PASSED
+INFO: Execute com.kaspersky.kaspresso.tutorial.AdbTest.test: PASSED

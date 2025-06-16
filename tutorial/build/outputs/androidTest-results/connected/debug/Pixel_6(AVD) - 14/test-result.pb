@@ -1,12 +1,12 @@
 
 
-emulator-5556primary–
-¤
-LoginActivityGeneratedDataTest com.kaspersky.kaspresso.tutorial+loginSuccessfulIfUsernameAndPasswordCorrect2„ßÁÂ€ÒŠ³:†ßÁÂÀşÃ(B
-emulator-5556primary"ƒ
+emulator-5556primaryš
+g
+AdbTest com.kaspersky.kaspresso.tutorialtest2Ü„ÂÂ€ :İ„ÂÂ€ãĞşB
+emulator-5556primary"Å
 
-logcatandroidí
-ê/Users/aleksei_smirnov/Kaspresso-study/tutorial/build/outputs/androidTest-results/connected/debug/Pixel_6(AVD) - 14/logcat-com.kaspersky.kaspresso.tutorial.LoginActivityGeneratedDataTest-loginSuccessfulIfUsernameAndPasswordCorrect.txt" 
+logcatandroid¯
+¬/Users/aleksei_smirnov/Kaspresso-study/tutorial/build/outputs/androidTest-results/connected/debug/Pixel_6(AVD) - 14/logcat-com.kaspersky.kaspresso.tutorial.AdbTest-test.txt" 
 
 device-infoandroid…
 ‚/Users/aleksei_smirnov/Kaspresso-study/tutorial/build/outputs/androidTest-results/connected/debug/Pixel_6(AVD) - 14/device-info.pb"Ÿ

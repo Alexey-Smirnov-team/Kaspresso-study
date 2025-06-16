@@ -1,7 +1,7 @@
 EXECUTING: /Users/aleksei_smirnov/Library/Android/sdk/build-tools/35.0.0/aapt dump badging /Users/aleksei_smirnov/.gradle/caches/modules-2/files-2.1/androidx.test.services/test-services/1.4.2/d051210a53d266ad436e79bea473cc5e843245b8/test-services-1.4.2.apk
 CURRENT_WORKING_DIRECTORY: /Users/aleksei_smirnov/Kaspresso-study
-START_TIME: 2025-06-16 22:24:55.037
-START_TIME-NANOS: 2025-06-16 22:24:55.037403000
+START_TIME: 2025-06-16 23:45:18.056
+START_TIME-NANOS: 2025-06-16 23:45:18.056489000
 ENVIRONMENT:
 
 *****************************************
@@ -31,7 +31,7 @@ supports-any-density: 'true'
 locales: '--_--'
 densities: '160' '240' '320' '480' '640'
 ===================
-END_TIME: 2025-06-16 22:24:55.046
-END_TIME-NANOS: 2025-06-16 22:24:55.046627000
-DURATION: 9ms
+END_TIME: 2025-06-16 23:45:18.066
+END_TIME-NANOS: 2025-06-16 23:45:18.066731000
+DURATION: 10ms
 EXIT CODE: 0

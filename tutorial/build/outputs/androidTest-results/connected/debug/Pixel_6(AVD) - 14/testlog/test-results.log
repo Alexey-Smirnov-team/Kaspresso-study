@@ -1,21 +1,21 @@
-INSTRUMENTATION_STATUS: class=com.kaspersky.kaspresso.tutorial.LoginActivityGeneratedDataTest
+INSTRUMENTATION_STATUS: class=com.kaspersky.kaspresso.tutorial.AdbTest
 INSTRUMENTATION_STATUS: current=1
 INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
 INSTRUMENTATION_STATUS: numtests=1
 INSTRUMENTATION_STATUS: stream=
-com.kaspersky.kaspresso.tutorial.LoginActivityGeneratedDataTest:
-INSTRUMENTATION_STATUS: test=loginSuccessfulIfUsernameAndPasswordCorrect
+com.kaspersky.kaspresso.tutorial.AdbTest:
+INSTRUMENTATION_STATUS: test=test
 INSTRUMENTATION_STATUS_CODE: 1
-INSTRUMENTATION_STATUS: class=com.kaspersky.kaspresso.tutorial.LoginActivityGeneratedDataTest
+INSTRUMENTATION_STATUS: class=com.kaspersky.kaspresso.tutorial.AdbTest
 INSTRUMENTATION_STATUS: current=1
 INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
 INSTRUMENTATION_STATUS: numtests=1
 INSTRUMENTATION_STATUS: stream=.
-INSTRUMENTATION_STATUS: test=loginSuccessfulIfUsernameAndPasswordCorrect
+INSTRUMENTATION_STATUS: test=test
 INSTRUMENTATION_STATUS_CODE: 0
 INSTRUMENTATION_RESULT: stream=
 
-Time: 2.324
+Time: 1.352
 
 OK (1 test)
 

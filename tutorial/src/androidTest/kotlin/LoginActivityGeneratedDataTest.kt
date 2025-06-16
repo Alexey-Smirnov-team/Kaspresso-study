@@ -9,7 +9,7 @@ import org.junit.Rule
 import org.junit.Test
 
 class LoginActivityGeneratedDataTest : TestCase() {
-   
+
     @get:Rule
     val activityRule = activityScenarioRule<MainActivity>()
 
